@@ -20,6 +20,7 @@ height = 5.9
 - Must start with a letter or underscore (`_`)
 - Can contain letters, digits, and underscores
 - Cannot be a reserved Python keyword (`if`, `print`, `while`, etc.)
+- Cannot contain spaces
 
 ---
 
