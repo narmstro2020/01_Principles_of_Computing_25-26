@@ -1,4 +1,4 @@
-# Day 06 Lecture Notes – Principles of Computing  
+# Lecture Notes – Principles of Computing  
 ## Topic: Python – Advanced Printing, Variables, Literals, and Comments
 
 ---
